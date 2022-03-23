@@ -1,10 +1,9 @@
 ## **Olá, sou o Carlos Massato 👋**
 
-> Algumas informações sobre mim:
-> * 👨‍💻 Aluno de Ciência da Computação no Centro Universitário FEI
-> * 🎮 Gosto de jogos
-> * 📊 Adoro mexer com dados
-> * 🤔 Gosto de aprender coisas novas
+* `👨‍💻 Aluno de Ciência da Computação no Centro Universitário FEI`
+* `🎮 Gosto de jogos`
+* `📊 Adoro mexer com dados`
+* `🤔 Gosto de aprender coisas novas`
 
 
 <div align="center">
