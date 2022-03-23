@@ -22,5 +22,5 @@
 
     
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+### 📈 Gráfico de Atividades:
 ![Massato01's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Massato01&hide_border=true&theme=nord)
