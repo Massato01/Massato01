@@ -1,8 +1,6 @@
 ## **Olá, sou o Carlos Massato 👋**
 
 * `👨‍💻 Estudante de Ciência da Computação no Centro Universitário FEI`
-* `🤔 Gosto de aprender coisas novas`
-* `📊 Adoro o que dados nos proporcionam`
 
 
 <div align="center">
