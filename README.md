@@ -1,12 +1,15 @@
-## **Olá, sou o Carlos Massato 👋**
-
-* `👨‍💻 Estudante de Ciência da Computação no Centro Universitário FEI`
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Olá+👋,+Eu+sou+o+Carlos+Massato.;+Bem-vindo+ao+meu+Perfil!;Sou+estudante+de+Ciência+da+Computação+na+FEI.;Sempre+aprendendo+coisas+novas.;Gosto+de+trabalhar+com+dados+e+Machine+Learning.;)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Massato01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Massato01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Massato01&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+   <br><br>
+    
+  ![Massato01's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Massato01&theme=nord&layout=compact)
 <br>
+    
+
+
 
 <img align="center" alt="Ma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">|<img align = "center" alt = "Ma-Jupyter" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img align="center" alt="Ma-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">|<img align="center" alt="Ma-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 |--|--|--|--|--|    
