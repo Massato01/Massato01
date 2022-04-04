@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Olá+👋,+Eu+sou+o+Carlos+Massato.;+Bem-vindo+ao+meu+Perfil!;Sou+estudante+de+Ciência+da+Computação+na+FEI.;Sempre+aprendendo+coisas+novas.;Gosto+de+trabalhar+com+Dados+e+Machine+Learning.;)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Massato01">
+<!--   <a href="https://github.com/Massato01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Massato01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <br><br>
+   <br><br> -->
     
   ![Massato01's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Massato01&theme=react&layout=compact)
 <br>
