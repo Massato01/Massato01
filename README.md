@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Olá+👋,+Eu+sou+o+Carlos+Massato.;+Bem-vindo+ao+meu+Perfil!;Sou+estudante+de+Ciência+da+Computação+na+FEI.;Sempre+aprendendo+coisas+novas.;Gosto+de+trabalhar+com+Dados+e+Machine+Learning.;)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Olá+👋,+Eu+sou+o+Carlos+Massato.;+Bem-vindo+ao+meu+Perfil!;Sou+estudante+de+Ciência+da+Computação+na+FEI.;Sempre+aprendendo+coisas+novas.;Gosto+de+trabalhar+com+Dados+e+Machine+Learning.;)](https://git.io/typing-svg) -->
+# Olá 👋, eu sou o Carlos Massato.
 
 <div align="center">
 <!--   <a href="https://github.com/Massato01">
