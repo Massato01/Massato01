@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BFF5F5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73EFF5&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+My+name+is+Carlos+Massato+Horibe+Chinen;I'm+20+years+old;I'm+from+Brazil;I+am+a+student+of+Computer+Science+at+FEI;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73EFF5&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+My+name+is+Carlos+Massato+Horibe+Chinen;I'm+from+Brazil;I+am+a+Data+Analyst;Currently+Studying+Computer+Science+at+FEI;+:%29)](https://git.io/typing-svg)
 
 [![Massato01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Massato01&bg_color=0d1117&color=BFF5F5&line=73EFF5&point=54A5AB&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
