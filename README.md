@@ -16,9 +16,8 @@
 <div align="center"> 
   <br><p align="centre"><b>Main Skills</b></p>  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=JavaScript&logoColor=white" target="_blank"></a>
 </div>
 
 
