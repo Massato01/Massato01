@@ -13,7 +13,7 @@
 
 
 <div align="center"> 
-  <br><p align="centre"><b>Main Skills</b></p>  
+  <br><p align="centre"><b>Skills</b></p>  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
