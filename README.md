@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BFF5F5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FBFBFB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73EFF5&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+My+name+is+Carlos+Massato+Horibe+Chinen;I'm+from+Brazil;I+am+a+Data+Analyst;Currently+Studying+Computer+Science+at+FEI;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9AB5B&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+My+name+is+Carlos+Massato+Horibe+Chinen;I'm+from+Brazil;I+am+a+Data+Analyst;Currently+Studying+Computer+Science+at+FEI;+:%29)](https://git.io/typing-svg)
 
-[![Massato01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Massato01&bg_color=0d1117&color=BFF5F5&line=73EFF5&point=54A5AB&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Massato01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Massato01&bg_color=0d1117&color=FFE3C7&line=F9AB5B&point=FBFBFB&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Massato01&show_icons=true&count_private=true&hide_border=true&title_color=BFF5F5&icon_color=73EFF5&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Chinen github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Massato01&layout=compact&hide_border=true&title_color=BFF5F5&text_color=73EFF5&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Massato01&show_icons=true&count_private=true&hide_border=true&title_color=F9AB5B&icon_color=FD9494&text_color=FBFBFB&bg_color=0d1117" alt="Carlos Chinen github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Massato01&layout=compact&hide_border=true&title_color=F9AB5B&text_color=FBFBFB&bg_color=0d1117" />
 </div>
 
 
@@ -32,4 +32,4 @@
  </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BFF5F5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FBFBFB&height=120&section=footer"/>
